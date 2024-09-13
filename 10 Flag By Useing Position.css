@@ -1,0 +1,294 @@
+body{
+    background-color: rgb(218, 218, 218);
+}
+h1{
+color: red;
+}
+
+.sriLanka{
+background-color:#FFBE29;
+width: 500px;
+height: 300px;
+position: relative;
+}
+.one1{
+background-color: #00534E;
+width: 10%;
+height: 93.33333333333333%;
+position: absolute;
+left:2%;
+top: 50%;
+transform: translateY(-50%);
+}
+    .two1{
+    background-color:#EB7400 ;
+    width: 10%;
+    height:93.33333333333333%;
+    position: absolute;
+    left: 12%;
+    top: 50%;
+    transform: translateY(-50%);
+    }
+    .three1{
+    background-color: #8D153A;
+    width: 74%;
+    height: 93.33333333333333%;
+    position: absolute;
+    left: 24%;
+    top: 50%;
+    transform: translateY(-50%);
+    }
+    .img1{
+     width:95% ;
+     height:95%;
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform:translate(-50%, -50%);
+    }
+
+.India{
+    background-color:white;
+width: 500px;
+height: 300px;
+position: relative;
+}
+.one2{
+    background-color:#006934;
+width: 100%;
+height: 33.33333333333333%;
+position: absolute;
+top:100% ;
+transform: translateY(-100%);
+}
+.two2{
+    background-color:#F15B25;
+    width: 100%;
+    height: 33.33333333333333%;
+}
+.img2{
+width: 18%;
+position: absolute;
+top:50% ;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.Togo{
+    width: 500px;
+    height: 300px;
+    background-color: yellow;
+    position: relative;
+}
+.one3{
+    width: 100%;
+    height: 20%;
+    background-color: green;
+    position: absolute;
+}
+.two3{
+    width: 100%;
+    height: 20%;
+    background-color: green;
+    position: absolute;
+    top: 40%;
+}
+.three3{
+    width: 100%;
+    height: 20%;
+    background-color: green;
+    position: absolute;
+    top: 100%;
+    transform: translateY(-100%);
+}
+.four3{
+    width: 36%;
+    height: 60%;
+    background-color: red;
+    position: absolute;
+}
+.img3{
+    width: 75%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Finland{
+width: 500px;
+height: 300px;
+background-color: white;
+position: relative;
+}
+.one4{
+width: 100%;
+height: 20%;
+background-color: blue;
+position: absolute;
+top:40%;    
+}
+.two4{
+    width: 12%;
+    height: 100%;
+    background-color: blue;
+    position: absolute;   
+    left: 24%;
+    }
+.Chile{
+width: 500px;
+height: 300px;
+background-color:white;
+position: relative;
+}
+.one5{
+width: 100%;
+height: 50%;
+background-color: red;
+position: absolute;
+top: 100%;
+transform: translateY(-100%);
+}
+.two5{
+    width: 30% ;
+    height: 50%;
+    background-color: blue;
+    position: absolute;
+}
+.img5{
+width: 50%;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);}
+.Switzerland{
+    width: 500px;
+    height: 300px;
+    background-color: red;
+    position: relative;
+}
+.one6{
+    width:50% ;
+    height:15% ;
+    background-color: blue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50% , -50%);
+}
+.two6{
+    width:9% ;
+    height:83.33333333333333% ;
+    background-color: blue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50% , -50%);
+}
+.Ethiopia{
+    width: 500px;
+    height: 300px;
+    background-color: yellow;
+    position: relative;
+}
+.one7{
+    width: 100%;
+    height: 33.33333333333333%;
+    background-color: red;
+    position: absolute;
+    top: 100%;
+    transform: translateY(-100%);
+}
+.two7{
+    width: 100%;
+    height: 33.33333333333333%;
+    background-color: green;
+    position: absolute;
+}
+.three7{
+    width: 40% ;
+    height: 66.66666666666667% ;
+    background-color: blue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    border-radius:50%;
+}
+.img7{
+    width: 85%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
+
+.Palestine{
+    width: 500px;
+    height: 300px;
+    background-color:white;
+    position: relative;
+    display: inline-block;
+}
+.one8{
+    width: 100%;
+    height: 33.33333333333333%;
+    background-color: green;
+    position: absolute;
+    top: 100%;
+    transform: translateY(-100%);
+}
+.two8{
+    width: 100%;
+    height: 33.33333333333333%;
+    background-color:black;
+    position: absolute;
+}
+.img8 {
+        width: 62.5%;
+        position: absolute;
+        transform: rotate(90deg);
+        top: 3.666666666666667%;
+        left: -4.8%;
+}
+.Pakistan{
+    width: 500px;
+    height: 300px;
+    background-color: white ;
+    position: relative;
+}
+.one9{
+    width: 70%;
+    height: 100%;
+    background-color: #003F15;
+    position: absolute;
+    left: 30%;
+}
+.img9{
+    width:45%;
+    position: absolute;
+    top: 50%;
+    left: 65%;
+    transform: translate(-50% , -50%);
+}
+.Canada{
+    width: 500px;
+    height: 300px;
+    background-color:red;
+    position:relative;
+}
+.one10{
+    width: 45%;
+    height: 100%;
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.img10{
+    width: 90%;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
